@@ -1,0 +1,8 @@
+
+OUEDRAOGO KISWENDSIDA DIDIER
+KOANDA WENDPAYIMDI CHRISTOIN AZIEL
+
+
+le projet dont nous avons realisé est un jeu du nom du nom de sudoku. Le jeux contient 09 lignes et 09 colonnes, soit 81 cases au totale.Le but du jeu est de remplir ces cases avec des chiffres allant de 1 a 9 en veillant toujours à ce qu'un meme chiffre ne figure qu'une qu'une seule fois par carré de neuf cases. 
+	Les dossier du projet sont compresser dans seul fichier. le code source a pour nom sudoku.java et pour chemin programmation-java/src/main/java/com/projet/jeusudoku. le fichier executable a pour nom JeuSudoku-1.0-SNAPSHOT.jar et a pour chemin programmation-java/target
+  
